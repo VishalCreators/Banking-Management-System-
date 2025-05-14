@@ -27,5 +27,4 @@ A Java-based desktop application that provides basic banking functionalities suc
 
 ---
 
-## 📂 Project Structure
 
